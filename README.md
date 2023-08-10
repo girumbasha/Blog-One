@@ -1,1 +1,1 @@
-##Explore captivating articles and insights on our Blog Website. Discover the evolution of society, cutting-edge technology, and insights into the future. Join us on a journey of exploration and knowledge.
+## Explore captivating articles and insights on our Blog Website. Discover the evolution of society, cutting-edge technology, and insights into the future. Join us on a journey of exploration and knowledge.
