@@ -11,11 +11,9 @@ function BeforeModernSociety() {
     </header>
     <h2 className='old__title'>What Kind of Was Old Society</h2>
     <p className='oldfirst_paragraph'>
-      onsequat incididunt adipisicing culpa cupidatat eiusmod minim. Sit sunt veni.
-
+    ourney with us as we delve into the cherished past, where the wisdom of old generations shines brighter than the glimmer of modernity.
     </p>
-    <p className='oldfirst_paragraph'>Cillum elit nulla sint aute velit commodo occaecat. Fugiat duis ut excepteur Lorem occaecat culpa veniam. Esse cillum labore voluptate proident do consectetur
-     duis commodo veniam occaecat velit ipsum.</p>
+    <p className='oldfirst_paragraph'>Discover how age-old virtues stand as pillars amidst advancing technology, guiding us towards a future where lessons learned pave the way to a better tomorrow.</p>
     
     <p className='oldfirst_paragraph'>Cillum elit nulla sint aute velit commodo occaecat. Fugiat duis ut excepteur Lorem occaecat culpa veniam. Esse cillum labore voluptate proident do consectetur
     duis commodo veniam occaecat velit ipsum.</p>

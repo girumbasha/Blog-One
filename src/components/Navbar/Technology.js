@@ -10,23 +10,9 @@ function Technology() {
      </div>
      </header>
      <h2 className='tech_title'>Future Tech</h2>
-     <p className='firstech_paragraph'> Lorem Mollit cupidatat dolore 
-     repre
-     henderit ut consequat. Commodo est amet amet nulla excepteur do nulla 
-     rure. Ad aliquip voluptate quis veniam non laboris aliqua dolor ea 
-     est laborum irure. Culpa anim pariatur qui quis aute eiusmod 
-     dolor esse quis esse mollit proident. </p>
+     <p className='firstech_paragraph'> Dive into the heart of innovation with our exploration of technology's evolution. Uncover the tapestry of progress woven by human ingenuity, from the earliest sparks of discovery to the awe-inspiring frontiers of today.  </p>
      
-     <p className='first_tech_paragraph'> Lorem Mollit cupidatat dolore 
-     repre
-     henderit ut consequat. Commodo est amet amet nulla excepteur do nulla 
-      qui quis aute eiusmod 
-     dolor esse quis esse mollit proident. </p><p className='first_tech_paragraph'> Lorem Mollit cupidatat dolore 
-     repre
-     henderit ut consequat. Commodo est amet amet nulla excepteur do nulla 
-     rure. Ad aliquip voluptate quis veniam non laboris aliqua dolor ea 
-     est laborum irure. Culpa anim pariatur qui quis aute eiusmod 
-     dolor esse quis esse mollit proident. </p>
+     <p className='first_tech_paragraph'> Join us as we unravel the dynamic synergy between tech and the boundless potential of the future. </p><p className='first_tech_paragraph'>Embark on a journey that illuminates the past, empowers the present, and charts the course for an extraordinary technological future. </p>
      <p className='first_tech_paragraph'> Lorem Mollit cupidatat dolore 
      repre
      </p>
