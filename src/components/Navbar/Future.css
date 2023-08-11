@@ -1,0 +1,31 @@
+
+.future_header {
+    background:url('./future.webp') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content:center ;
+    
+}
+.future_header:hover{
+    opacity: 0.8;
+}
+.future_header_content{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}  
+.first_future_paragraph {
+    color: rgb(125, 125, 125);
+    text-align: center;
+}
+.future_title{
+    color: rgb(125, 125, 125);
+    text-align: center;
+}
+.future__footer{
+    background-color:rgb(168, 168, 168) ;
+    height: 50px;
+    width: 100%;
+}

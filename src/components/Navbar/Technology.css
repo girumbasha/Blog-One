@@ -1,0 +1,30 @@
+.tech_header{
+    background:url('./tech.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    align-items: center;
+    display: flex;
+    justify-content:center ;
+    
+}
+.tech_header:hover{
+    opacity: 0.9;
+}
+.tech_header_content{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}  
+.first_tech_paragraph {
+    color: rgb(125, 125, 125);
+    text-align: center;
+}
+.tech_title{
+    color: rgb(125, 125, 125);
+    text-align: center;
+}
+.tech__footer{
+    background-color:rgb(168, 168, 168) ;
+    height: 50px;
+    width: 100%;
+}

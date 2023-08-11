@@ -1,0 +1,92 @@
+/*  CSS styles */
+body {
+    margin: 0;
+    padding: 0;
+  }
+.Navbar__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #549aa6;
+    padding: 10px 20px;
+  }
+  
+  .logo__text {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+
+  }
+  
+  .nav__links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav__links a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+  }
+  .nav__links a:hover{
+    color: white;
+    border-bottom: 2px black solid;
+   
+    
+  }
+  .navbar__small_screen {
+    display: none; /* Initially hidden on larger screens */
+  }
+  
+  .over__lay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    
+    display: flex;
+     /* Align icons to the top */
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  .close {
+    color: rgb(210, 55, 55);
+    cursor: pointer;
+    
+    margin-top: 20px; /* Move the close icon to the top */
+  }
+  
+  .small__screen_link {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: center;
+    
+    width: 100%; /* Set full width */
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  /* Add border and width to each link */
+  .small__screen_link a {
+    color: rgb(249, 249, 249);
+    text-decoration: none;
+    background-color: #549aa6;
+    font-size: 16px;
+    border-top: 1px solid rgb(63, 63, 63,63);
+    width: 100%;
+    padding: 10px 0;
+  }
+  @media screen and (max-width: 768px) {
+    .Navbar__container {
+      display: none; /* Hide on larger screens */
+    }
+  
+    .navbar__small_screen {
+      display: block; /* Show on smaller screens */
+    }
+    .humburger{
+      font-size: 27px;
+    }
+  }

@@ -1,0 +1,41 @@
+/* Home.css */
+.Home__container {
+    /* Other styles for the entire container */
+  }
+  
+  .header {
+    background-image: url('./blog.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 400px; /* Set the desired height for the header */
+    display: flex;
+    align-items: center; /* Center the content vertically */
+    justify-content: center; /* Center the content horizontally */
+  }
+  .header:hover{
+    opacity: 0.8;
+  }
+  
+  .header-content {
+    text-align: center;
+    color: white;
+  }
+  
+  .content {
+    /* Styles for the main content */
+  }
+  .first__paragraph{
+    color: rgb(118, 118, 118);
+    text-align: center;
+  }
+  .about__text{
+    font-size: 24;
+    color: rgb(118, 118, 118);
+    text-align: center;
+  }
+  .home__footer{
+    height: 40px;
+    width: 100%;
+    background: rgb(195, 204, 205);
+  }
+  

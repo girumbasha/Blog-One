@@ -1,0 +1,32 @@
+.old_header {
+    background-image: url(old_vibe.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+.old_header:hover{
+    opacity: 0.8;
+}
+.old_header__content{
+    color: rgb(202, 86, 86);
+    text-align: center;
+    font-weight: 200;
+    
+
+}
+.oldfirst_paragraph{
+    color: rgb(97, 95, 95);
+    text-align: center;
+
+}
+.old__title {
+    text-align: center;
+   color: rgb(57, 57, 57)
+}
+.old__title:hover{
+   color: black;
+}
